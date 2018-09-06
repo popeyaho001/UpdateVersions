@@ -1,3 +1,3 @@
 
 
-Version 1.63 was out, fix bugs touching notes and calculate scores.
+Version 1.63 was out, fix bugs multi-touches and calculate scores.
