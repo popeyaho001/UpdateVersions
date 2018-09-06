@@ -1,3 +1,3 @@
 
 
-Version 1.62 was out, hot fix my mistake while converting maps.
+Version 1.63 was out, fix bugs touching notes and calculate scores.
